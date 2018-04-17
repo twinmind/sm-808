@@ -1,4 +1,4 @@
-# SM-808 Implementation (Alexey Solovtsov - alexey.solovtsov@gmail.com)
+# SM-808 Implementation
 
 SM-808 exercise solution is implemented with C# and .NET Core framework.
 
